@@ -1,9 +1,0 @@
-{
-   "name": "com.falatexto.nmh",
-   "description": "Native Messaging Host para a extensão FalaTexto",
-   "path": "/home/thiago/Documents/_Projetos/ExtensionChrome/FalaTexto/BASH_SERVER_PIPER/script.sh",
-   "type": "stdio",
-   "allowed_origins": [
-      "chrome-extension://apkffmlpggocekobahgkohlgghhbipan/"
-   ]
-}
